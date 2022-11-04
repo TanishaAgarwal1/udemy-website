@@ -1,0 +1,37 @@
+*{
+    background-color: #CDF0EA;
+}
+#cloud1{
+    position: relative;
+    left: 940px;
+}
+#intro{
+    position: relative;
+    left: 45%;
+    margin: auto;
+
+}
+h1{
+    font-size: 3em;
+    color: #256D85;
+}
+span{
+    
+}
+p{
+    position: relative;
+    left: 10px;
+    font-size:2em ;
+}
+#cloud2{
+    position: relative;
+    left: 300px;
+    bottom: 280px;
+}
+#mountain{
+    position: relative;
+    top: 25px;
+    left: 230px;
+    height: 300px;
+  
+}
